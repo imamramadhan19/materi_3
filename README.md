@@ -1,3 +1,3 @@
-# materi_3
+# Soal Latihan Materi 3
 
-## Latihan 
+## Mempelajari MVC PHP 
